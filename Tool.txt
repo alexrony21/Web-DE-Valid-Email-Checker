@@ -1,3 +1,3 @@
 wed. de Valid Email Checker
-it will check your email list from a file.txt which is web.de with office and which is not .it supports http proxy and multithread .if you wanna buy this tool contact me via Telegram . 
+it will check your email list from a file.txt which is assciated with web.de and which is not .it supports http proxy and multithread .if you wanna buy this tool contact me via Telegram . 
 Telegram : @alexrony21
